@@ -2,7 +2,7 @@
 
 # spec/enumerables_spec.rb
 
-require_relative '../main.rb'
+require_relative '../bin/enumerable.rb'
 
 RSpec.describe Enumerable do
   let(:array_1) { [1, 2, 3] }
